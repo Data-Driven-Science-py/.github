@@ -9,6 +9,6 @@ DDS.py es una propuesta orientada a la difusión del aprendizaje automático y p
 3. **Aprendizaje automático y profundo.**
 
 ## Contacto
-Email: jorged.encyso@gmail.com
-[Github](https://github.com/Jorgedavyd)
-[Linkedin](www.linkedin.com/in/jorge-david-enciso-martínez-149977265)
+- Email: jorged.encyso@gmail.com
+- [Github](https://github.com/Jorgedavyd)
+- [Linkedin](www.linkedin.com/in/jorge-david-enciso-martínez-149977265)
