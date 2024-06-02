@@ -1,5 +1,5 @@
 # DDS.py
-<p allign = 'center'>
+<p align = 'center'>
   <img src="https://github.com/Data-Driven-Science-py/.github/raw/main/source/logo.png" width="200" height="200">
 </p>
 
