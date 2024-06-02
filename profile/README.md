@@ -1,6 +1,7 @@
 # DDS.py
-
-<img src="https://github.com/Data-Driven-Science-py/.github/raw/main/source/logo.png" width="200" height="200">
+<p allign = 'center'>
+  <img src="https://github.com/Data-Driven-Science-py/.github/raw/main/source/logo.png" width="200" height="200">
+</p>
 
 DDS.py es una propuesta orientada a la difusión del aprendizaje automático y profundo por medio de recursos audiovisuales en español. Se compone de 3 estancias:
 
