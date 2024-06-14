@@ -7,7 +7,9 @@ DDS.py es una propuesta orientada a la difusión del aprendizaje automático y p
 
 1. **Introducción a python.**
 2. **Manipulación de datos.**
-3. **Aprendizaje automático y profundo.**
+3. **Aprendizaje automático y profundo para la ciencia.**
+
+Es un curso introductorio en el aprendizaje automático con énfasis en la introducción de leyes fundamentales de los distintos campos de conocimiento dentro del proceso de entrenamiento de los modelos de inteligencia artifiical para fomentar la interpretabilidad y alcance de los mismos.
 
 ## Contacto
 - Email: jorged.encyso@gmail.com
